@@ -1,0 +1,12 @@
+* {
+
+}
+
+
+
+.main-visual {
+  height: 400px;
+  background-image: url(../../html-img/img-7/mv.jpg);
+  background-size: cover;
+  background-position: bottom center;
+}
